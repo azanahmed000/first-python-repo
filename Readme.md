@@ -1,1 +1,1 @@
-#Its my reporsitry for my Pythton c
+#Its my reporsitry for my Pythton code
